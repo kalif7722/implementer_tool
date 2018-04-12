@@ -6,7 +6,7 @@ import time, os
 from netmiko import redispatch
 import logging
 
-from RSA import get_token
+
 
 
 
